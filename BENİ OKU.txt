@@ -1,0 +1,16 @@
+----Akış Tipi Atölye Çizelgeleme Problemi + Tavlama Benzetimi ----
+---------------CDS----RAP----PALMER----GUPTA----NEH---------------
+
+1. uygulamaya erişim için-----> CRPGNT.exe
+2. kısayol çalışmazsa ----> dist-> CRPGNT.exe
+
+
+! Excel dosya formatı bozulmamalı. isimler değiştirilmemeli. konumlar değiştirilmemeli (Girdiler.xlsx & sonuclar.xlsx)
+!! Sonuç üzerinde oynamalar için başka dizinde sonuclar.xlsx kopyalanıp oynanmalı
+!!! sablon.png silinmemeli
+!!!! Kod işlenirken Exceller açık olmamalı
+!!!!! Veriler tam sayı girilmeli. kontrol penceresiyle uymalı
+!!!!!! Veri girişinde sadece sayı. Formül gibi başka değer olmamalı (RASTGELE)
+
+!.idea build venv değiştirilmemeli. Dosya dizin düzeni bozulmamalı
+!! mainspec kullanılmamalı. (gerekli. hata verdiğinde çıkış yapmasını sağlar X ile çıkış yapmayı kapatır...)
